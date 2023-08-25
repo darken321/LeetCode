@@ -1,1 +1,3 @@
-"# LeetCode" 
+# LeetCode
+
+Solving LeetCode problems
