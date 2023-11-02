@@ -1,3 +1,1 @@
-# LeetCode
-
-Solving LeetCode problems
+# Решаю задачи с литкода и подобные
